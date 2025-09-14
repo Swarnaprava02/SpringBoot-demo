@@ -1,1 +1,16 @@
-com\springboot\productlist\ProductlistApplication.class
+com\springboot\product\dto\CategoryDTO.class
+com\springboot\product\entity\Category.class
+com\springboot\product\mapper\CategoryMapper.class
+com\springboot\product\service\CategoryService.class
+com\springboot\product\repository\CategoryRepository.class
+com\springboot\product\component\MyAppConfig.class
+com\springboot\product\component\MyApp.class
+com\springboot\product\controller\CategoryController.class
+com\springboot\product\ProductApplication.class
+com\springboot\product\entity\Product.class
+com\springboot\product\mapper\ProductMapper.class
+com\springboot\product\repository\ProductRepository.class
+com\springboot\product\dto\ProductDTO.class
+com\springboot\product\component\MyComponent.class
+com\springboot\product\controller\ProductController.class
+com\springboot\product\service\ProductService.class

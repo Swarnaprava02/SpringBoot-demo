@@ -1,1 +1,16 @@
-E:\ruby file\programmes\springbootsts\springbootdemo\productlist\src\main\java\com\springboot\productlist\ProductlistApplication.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\component\MyApp.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\component\MyAppConfig.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\component\MyComponent.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\controller\CategoryController.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\controller\ProductController.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\dto\CategoryDTO.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\dto\ProductDTO.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\entity\Category.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\entity\Product.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\mapper\CategoryMapper.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\mapper\ProductMapper.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\ProductApplication.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\repository\CategoryRepository.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\repository\ProductRepository.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\service\CategoryService.java
+E:\ruby file\programmes\springbootsts\springbootdemo\product\src\main\java\com\springboot\product\service\ProductService.java
